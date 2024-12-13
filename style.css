@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+	border: none;
+}
+
+body {
+	overflow: hidden;
+	margin: 0;
+	font-family: 'Jersey 15', sans-serif; /* Указываем шрифт для всего body */
+}
+
+canvas {
+	font-family: 'Jersey 15', sans-serif; /* Указываем шрифт для canvas */
+}
