@@ -149,11 +149,6 @@
 ```bash
 npm install
 ```
-
-const game = new Phaser.Game(config);
-13. Заключение
-
-const game = new Phaser.Game(config);
 4. Откройте файл `index.html` в браузере.
 5. Игра запустится автоматически.
 
